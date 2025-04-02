@@ -1,2 +1,2 @@
-# CSNN
-The CSNN code will be upload here
+# QI-CSNN
+The QI-CSNN code will be upload here
