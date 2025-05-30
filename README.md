@@ -1,2 +1,2 @@
 # QI-CSNN
-The QI-CSNN code will be upload here
+If you have any question, please contact us: liyahui@henu.edu.cn
